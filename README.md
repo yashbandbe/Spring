@@ -15,3 +15,6 @@ Spring Api
 
 #GET,PUT,DELETE,POST using Postman 
 ![image](https://github.com/user-attachments/assets/f3e43305-ef8d-4837-8f73-0514e421b8a4)
+
+Database
+![image](https://github.com/user-attachments/assets/06c4cc69-1f7d-473d-9ee5-101227aaadaf)
